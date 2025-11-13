@@ -1,0 +1,4 @@
+schema - define the sturture
+  schema-model
+  using model we do crud operation
+  
